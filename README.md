@@ -10,7 +10,7 @@ Clone the package.
 $ git clone https://github.com/yeqiaoling/DARLS-BN.git
 ```
 
-Run the **test.m** file in the directory **/arcs_bn/test** for an example. 
+Run the **main.m** file for an example. 
 
 ## Publication
 [Distributed Learning of Generalized Linear Causal Networks. Qiaoling Ye, Arash A. Amini, and Qing Zhou. IEEE-TPAMI. 2024.](https://ieeexplore.ieee.org/document/10480288).
